@@ -1,4 +1,4 @@
 a = int(input("Enter first number:"))
 b = int(input("Enter second number:"))
-
-print("The sum of two numbers is:",(a+b))
+c = int(input("Enter third number:"))
+print("The sum of three numbers is:",(a+b+c))
